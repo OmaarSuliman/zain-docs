@@ -11,9 +11,6 @@ header {
   align-items: center;
   margin: 2rem 0;
   gap: 1.5rem;
-  background: rgba(18, 18, 18, 0.6);
-  backdrop-filter: blur(15px);
-  -webkit-backdrop-filter: blur(15px);
 }
 
 header h1 {
