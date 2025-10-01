@@ -95,8 +95,3 @@ GPL-3.0 – free to use, modify, and distribute.
 ---
 
 _Last updated: September 2025_
-
-```
-
-Would you like me to **keep a short API reference** (Downloader methods, formats, etc.) in this concise version, or remove all dev-level details entirely?
-```
